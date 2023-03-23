@@ -1,4 +1,4 @@
-![An Front End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![An Front End Developer](https://arturssmirnovs.github.io//images/banner.png)
 
 ### Hi there 👋, I'm Aoyon
 #### An Front End Developer
