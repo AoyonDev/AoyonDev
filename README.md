@@ -1,6 +1,6 @@
 ![An Front End Developer](https://arturssmirnovs.github.io//images/banner.png)
-
-###### Hi there 👋, I'm Aoyon <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+### Hi there 👋,
+# I'm Aoyon <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 #### An Front End Developer
 
 
