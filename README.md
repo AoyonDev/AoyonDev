@@ -4,15 +4,10 @@
 
 With over three years of experience in Frontend Web Design, I've honed my skills in creating visually striking and responsive websites. I've mastered HTML, CSS, JavaScript, and various frameworks. I'm passionate about creating impactful designs that leave a lasting impression. Together, let's push the boundaries of web design and shape the digital landscape. Thank you for your attention.
 
-Skills: JS /  HTML / CSS
-
 - 💬 Ask me about Frontend Web Design 
 - 📫 How to reach me: aoyonislam010@gmail.com 
 - ⚡ Fun fact: I love Coding 
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/niloyahmedyt) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoyonislam/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/CoderAoyon) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoyon99) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aoyonislam010@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AoyonDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aoyonislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/CoderAoyon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aoyon99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aoyondev.github.io/aoyon-dev/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AoyonDev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AoyonDev&show_icons=true&count_private=true)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,sass)](https://skillicons.dev) 
