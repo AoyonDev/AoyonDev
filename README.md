@@ -5,7 +5,7 @@
 #### An Front End Developer
 
 
-<h3 align="center">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I enjoy working with HTML/CSS/JS.</h3>
+<h5 align="center">I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I enjoy working with HTML/CSS/JS.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoyondev&label=Profile%20views&color=0e75b6&style=flat" alt="aoyondev" /> </p>
 
