@@ -1,4 +1,4 @@
-[![Frontend Website Designer](https://media.licdn.com/dms/image/D5616AQGvmu0NlnIBpQ/profile-displaybackgroundimage-shrink_350_1400/0/1684706342475?e=1693440000&v=beta&t=0qKb-oj64CLQbM7b4xoIs6TS10F7sgsTmjzIWDt3gX0)](https://media.licdn.com/dms/image/D5616AQGvmu0NlnIBpQ/profile-displaybackgroundimage-shrink_350_1400/0/1684706342475?e=1703116800&v=beta&t=B_4bDFtfM79Wy67SrWC1x2WSyRLhwx-gQm2r7_9Q9Qw)
+https://www.linkedin.com/in/aoyonislam/overlay/background-image/
 ### Hi there 👋, i'm Aoyon
 #### Frontend Website Designer
 
