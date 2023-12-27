@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D5616AQGvmu0NlnIBpQ/profile-displaybackgroundimage-shrink_350_1400/0/1684706342475?e=1703116800&v=beta&t=B_4bDFtfM79Wy67SrWC1x2WSyRLhwx-gQm2r7_9Q9Qw)
+([https://media.licdn.com/dms/image/D5616AQGvmu0NlnIBpQ/profile-displaybackgroundimage-shrink_350_1400/0/1684706342475?e=1703116800&v=beta&t=B_4bDFtfM79Wy67SrWC1x2WSyRLhwx-gQm2r7_9Q9Qw](https://drive.google.com/file/d/1i_2DJHrwt0xJYUYMVpIz1p7dvFe_UUmL/view?usp=sharing))
 ### Hi there 👋, i'm Aoyon
 #### Frontend Website Designer
 
